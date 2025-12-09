@@ -35,3 +35,15 @@ Fully responsive UI that works on phones, tablets, and laptops.
 🌙 Dark Mode
 
 User-friendly dark/light mode toggle.
+
+🛠️ Tech Stack
+
+(Modify based on your actual setup)
+
+Frontend: React / Flutter / HTML-CSS-JS
+
+Backend: Node.js / Python / Firebase
+
+Database: MongoDB / SQLite / LocalStorage
+
+Charts: Chart.js / Recharts
