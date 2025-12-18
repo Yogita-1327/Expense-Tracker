@@ -39,8 +39,6 @@ User-friendly dark/light mode toggle.
 
 🛠️ Tech Stack
 
-(Modify based on your actual setup)
-
 Frontend: React / Flutter / HTML-CSS-JS
 
 Backend: Node.js / Python / Firebase
