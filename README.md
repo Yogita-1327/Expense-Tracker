@@ -17,6 +17,7 @@ Category-wise expense breakdown
 
 Total income vs. expenses comparison
 
+
 🏷️ Category Management
 
 Customizable categories like Food, Travel, Bills, Shopping, Health, etc.
