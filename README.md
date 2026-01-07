@@ -11,6 +11,7 @@ Track daily spending with details like amount, category, date, and notes.
 
 📊 Dashboard & Analytics
 
+
 Monthly spending graph
 
 Category-wise expense breakdown
